@@ -8,18 +8,18 @@ const ServiceShowcase = () => {
           badgeLabel: 'Saving',
           badgeColor:'!bg-[#f9a544]',
           title: 'Safe up for gift giving season',
-          description: "You'll get the tools you're after to get business done—and the care you need. You'll get the tools you're after to get."
+          description: "You&apos;ll get the tools you're after to get business done—and the care you need. You&apos;ll get the tools you're after to get."
         },
         {
           badgeLabel: 'Mobile Banking',
           badgeColor:'!bg-[#f5fc81] !text-black',
           title: 'Mobile to Check Deposit',
-          description: "You'll get the tools you're after to get business done—and the care you need. You'll get the tools you're after to get."
+          description: "You&apos;ll get the tools you're after to get business done—and the care you need. You&apos;ll get the tools you're after to get."
         },
         {
           badgeLabel: 'Small Business',
           title: 'Our Dynamic Business Checking',
-          description: "You'll get the tools you're after to get business done—and the care you need. You'll get the tools you're after to get."
+          description: "You&apos;ll get the tools you're after to get business done—and the care you need. You&apos;ll get the tools you're after to get."
         }
       ];
     return (
@@ -32,7 +32,7 @@ const ServiceShowcase = () => {
                             <h3 className='font-medium text-4xl md:text-5xl'>A <span className='font-black'>Super Saver</span></h3>
                         </div>
                         <div className='w-full lg:w-[400px] text-[#c2c2c2]'>
-                            <p>You'll get the tools you're after to get business done—and the care you need to help your business thrive. You'll get the tools.</p>
+                            <p>You&apos;ll get the tools you're after to get business done—and the care you need to help your business thrive. You&apos;ll get the tools.</p>
                         </div>
                     </div>
                     <Button title='Join Us Now' className='max-w-[180px] !h-10 bg-black text-white rounded-2xl text-[0.8rem]' />

@@ -8,17 +8,17 @@ const Help = () => {
         {
             icon: <BsFillShieldFill className='w-11 h-full fill-[#ffb762]' />,
             title:'Insurance',
-            description:"You'll get the tools you're after to get business done-and the care you need"
+            description:"You&apos;ll get the tools you're after to get business done-and the care you need"
         },
         {
             icon: <FaWallet className='w-10 h-full fill-[#ffb762]' />,
             title:'Checking Account',
-            description:"You'll get the tools you're after to get business done-and the care you need"
+            description:"You&apos;ll get the tools you're after to get business done-and the care you need"
         },
         {
             icon: <FaCreditCard className='w-10 h-full fill-[#ffb762]' />,
             title:'Debit Card',
-            description:"You'll get the tools you're after to get business done-and the care you need"
+            description:"You&apos;ll get the tools you're after to get business done-and the care you need"
         },
     ]
     return (
@@ -30,7 +30,7 @@ const Help = () => {
                         <h3 className='font-medium text-5xl'><span className='font-black'>Help You</span> With?</h3>
                     </div>
                     <div className='w-full lg:w-[400px] text-[#c2c2c2]'>
-                        <p>You'll get the tools you're after to get business done-and the care you need to help</p>
+                        <p>You&apos;ll get the tools you're after to get business done-and the care you need to help</p>
                     </div>
                     <Button title='Join Us Now' className='max-w-[180px] !h-10 bg-black text-white rounded-2xl text-[0.8rem]' />
                 </div>
