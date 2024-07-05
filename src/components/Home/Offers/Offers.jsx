@@ -10,8 +10,8 @@ const Offers = () => {
           Reach <BoldText>Your Goal.</BoldText>Feel Good
         </Heading>
         <ParaContainer>
-          <ParaText>You&apos;ll get the tools you're after to get business done-and the care you need </ParaText>
-          <ParaText className='hidden md:block'>to help your business thrive. You&apos;ll get the tools you're after to get business</ParaText>
+          <ParaText>You&apos;ll get the tools you&apos;re after to get business done-and the care you need </ParaText>
+          <ParaText className='hidden md:block'>to help your business thrive. You&apos;ll get the tools you&apos;re after to get business</ParaText>
         </ParaContainer>
       </CenterHeader>
       <div className='grid grid-cols-1 md:grid-cols-[1.5fr_2fr_1.5fr] gap-2 py-8'>
@@ -21,10 +21,10 @@ const Offers = () => {
             <span className='text-[#feb765]'>giving season</span>
           </div>
           <div className='font-thin'>
-            <ParaText className='lg:text-right px-0'>You&apos;ll get the tools you're after to</ParaText>
+            <ParaText className='lg:text-right px-0'>You&apos;ll get the tools you&apos;re after to</ParaText>
             <ParaText className='lg:text-right px-0'>get business done-and the care</ParaText>
             <ParaText className='lg:text-right px-0'>you need. You&apos;ll get the tools</ParaText>
-            <ParaText className='lg:text-right px-0'>you're after to get.</ParaText>
+            <ParaText className='lg:text-right px-0'>you&apos;re after to get.</ParaText>
           </div>
         </div>
         <div className='flex justify-center items-center order-1 md:order-2'>
@@ -36,10 +36,10 @@ const Offers = () => {
             <h3>Business Checking</h3>
           </div>
           <div className='font-thin'>
-            <ParaText className='text-left px-0'>You&apos;ll get the tools you're after to</ParaText>
+            <ParaText className='text-left px-0'>You&apos;ll get the tools you&apos;re after to</ParaText>
             <ParaText className='text-left px-0'>get business done-and the care</ParaText>
             <ParaText className='text-left px-0'>you need. You&apos;ll get the tools</ParaText>
-            <ParaText className='text-left px-0'>you're after to get.</ParaText>
+            <ParaText className='text-left px-0'>you&apos;re after to get.</ParaText>
           </div>
         </div>
       </div>

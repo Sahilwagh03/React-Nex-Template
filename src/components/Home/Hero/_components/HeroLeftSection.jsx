@@ -21,12 +21,12 @@ export const HeroLeftSection = () => {
                 </div>
                 <div className='relative z-20 backdrop-blur-3xl p-3 border-b'>
                     <h2 className='text-white text-2xl font-semibold'>New Card Design</h2>
-                    <p className='text-white text-md font-semibold mt-2'>You&apos;ll get the tools you're after to get business done
+                    <p className='text-white text-md font-semibold mt-2'>You&apos;ll get the tools you&apos;re after to get business done
                         --and the care you need. You&apos;ll get the tools</p>
                 </div>
             </div>
             <div className='mt-12 text-black font-semibold text-[1.7em] '>
-                <span>You&apos;ll get the tools you're after </span>
+                <span>You&apos;ll get the tools you&apos;re after </span>
                 <span>to get business done-and </span>
                 <span>the care you need</span>
             </div>
