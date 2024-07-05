@@ -5,8 +5,8 @@ import ReviewCard from './_components/ReviewCard'
 import { BsArrowLeft  ,BsArrowRight} from "react-icons/bs";
 const Review = () => {
     return (
-        <section className='h-auto pt-5 px-12'>
-            <div className='grid grid-cols-[1.5fr_2fr] gap-10 items-center'>
+        <section className='h-auto py-0 px-5 md:py-0 md:px-10 lg:py-20 lg:px-12'>
+            <div className='grid grid-cols-1 md:grid-cols-[1.5fr_2fr] gap-10 items-center'>
                 <div className='flex flex-col gap-12'>
                     <CenterHeader className='!text-left'>
                         <Heading className='tracking-tight'>

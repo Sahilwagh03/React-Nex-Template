@@ -7,7 +7,7 @@ const FeatureCard = ({ title, description, component }) => {
             <div>
                 <div className='flex flex-col gap-4'>
                     <h3 className='text-3xl text-[#423f3f] tracking-tight font-bold'>{title}</h3>
-                    <p className='w-[60%] text-[#b8b8b8]'>{description}</p>
+                    <p className='w-full md:w-[60%] text-[#b8b8b8]'>{description}</p>
                 </div>
                 <div>
                     {

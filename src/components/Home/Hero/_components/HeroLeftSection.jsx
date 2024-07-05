@@ -4,8 +4,8 @@ import { GoArrowUpRight } from "react-icons/go";
 
 export const HeroLeftSection = () => {
     return (
-        <div className='pt-20 px-20'>
-            <div className='relative min-h-[350px] min-w-[400px] flex items-end rounded-e-md'>
+        <div className='pt-16 px-0 md:px-10 lg:pt-20 lg:px-20 md:flex flex-col items-center lg:items-normal'>
+            <div className='relative min-h-[350px] md:w-[350px] lg:min-w-[400px] flex items-end rounded-e-md'>
                 <div className='absolute w-full h-full z-10'>
                     <div>
                         <div className='absolute rotate-[10deg] top-2 right-[6px]'>

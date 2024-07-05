@@ -12,11 +12,11 @@ const ReviewCard = () => {
                         </div>
                     </div>
                 </div>
-                <p className='text-md text-[#aaa8a8]'>
+                <p className='text-sm md:text-md text-[#aaa8a8]'>
                     "One of my favorite features is the ability to create customized routines. I've set up a 'Good Morning' routine that gradually turns on the lights and adjusts the thermostat to the perfect temperature to wake me up gently. And in the evening, the 'Goodnight' routine ensures that
                     all the lights are off and the doors are locked without me having to check each one inpidually".
                 </p>
-                <h3 className='text-right'><BoldText>Ronald Richards</BoldText>, Start Up CEO</h3>
+                <h3 className='text-right text-sm'><BoldText className='text-sm'>Ronald Richards</BoldText>, Start Up CEO</h3>
             </div>
 
             <div className='bg-[#f9a544] w-full h-6 rounded-br-3xl rounded-bl-3xl'></div>
